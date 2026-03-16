@@ -1,0 +1,1001 @@
+ID,Name,Gender,Age,BMI,Health_Issues,Smoker,Region,Salary,Insurance_Price
+1,Steven Stevens,Female,52,19.2,Hypertension,Yes,West,133454,52522.4
+2,Noah White,Male,34,30.7,Arthritis,No,West,120586,30876.0
+3,Melissa Bowers,Female,44,20.0,High Cholesterol,No,Midwest,60937,29996.2
+4,Jason Henderson,Female,76,20.2,High Cholesterol,No,Midwest,157563,40354.6
+5,Leslie Jones,Female,40,34.2,High Cholesterol,No,Northwest,119040,28701.4
+6,Sarah Klein,Female,83,22.1,High Cholesterol,No,Southwest,126107,42620.5
+7,Robert King,Male,47,26.8,Sleep Apnea,No,Northwest,126234,38113.6
+8,Jared Bryant,Female,70,35.7,Sleep Apnea,No,Northwest,136000,47276.8
+9,Danielle Joyce,Male,84,32.1,Hypertension,No,West,85216,46247.6
+10,Tina Parker,Male,26,37.7,None,No,West,58535,18592.0
+11,Heather Casey,Male,69,19.1,Sleep Apnea,No,West,100919,46878.4
+12,Derek Matthews,Male,71,34.3,Type 2 Diabetes,No,Northwest,72336,53634.6
+13,Emily Martinez,Female,28,39.7,Type 2 Diabetes,No,Northwest,127248,34362.0
+14,Christopher Everett,Male,54,38.9,Arthritis,Yes,Southeast,98000,57021.0
+15,Christopher Wells,Female,18,21.8,Arthritis,No,West,41349,24900.0
+16,Miguel Smith,Male,75,20.0,Arthritis,Yes,West,110522,64864.5
+17,Jessica Beard,Male,63,26.6,Asthma,Yes,Northwest,74430,48306.0
+18,Stephen Carroll,Female,43,20.3,Sleep Apnea,No,Midwest,137759,36520.0
+19,Samuel Jackson II,Male,44,37.8,Asthma,No,West,137416,27688.8
+20,Clinton Christian,Male,20,30.3,None,No,Northwest,85110,17098.0
+21,John Brooks,Male,63,31.4,Sleep Apnea,No,West,36972,44488.0
+22,Steven Spencer,Male,55,20.7,Sleep Apnea,No,West,130585,41300.8
+23,Joel Clark,Female,51,32.8,Arthritis,No,Midwest,51563,37225.5
+24,Alyssa Chavez,Male,63,36.5,Asthma,Yes,Southeast,78828,48306.0
+25,Omar Aguirre,Male,66,28.4,Hypertension,No,Northwest,69611,39972.8
+26,Randy Jensen,Male,55,23.4,None,No,Midwest,91075,25813.0
+27,Christopher Diaz,Female,81,36.3,Asthma,Yes,Midwest,31040,53684.4
+28,Kathy Green,Female,42,23.6,Hypertension,No,Northwest,64041,31606.4
+29,Justin Hernandez,Male,39,33.8,Asthma,No,Northwest,140318,26194.8
+30,Amanda Carson,Female,70,23.6,Hypertension,No,West,145365,41367.2
+31,Theresa Poole,Female,38,37.1,None,Yes,Southwest,88826,34030.0
+32,Jason Jones,Male,54,28.3,Hypertension,No,West,115201,35789.6
+33,Timothy Spears,Female,34,38.5,Sleep Apnea,No,Southwest,67019,32934.4
+34,Amanda Thomas,Female,21,31.8,High Cholesterol,No,Northwest,136609,22551.1
+35,Susan Pitts,Female,83,29.7,High Cholesterol,No,Northeast,139046,42620.5
+36,Scott Jones,Female,56,24.4,None,No,Southeast,44283,26062.0
+37,Travis Allen MD,Male,43,31.4,Sleep Apnea,No,Northeast,61246,36520.0
+38,Richard Holloway,Male,66,35.8,Type 2 Diabetes,Yes,Northeast,122889,73803.6
+39,Donna Jones,Female,61,31.9,Asthma,No,Southeast,127231,32768.4
+40,Alexandra Williamson,Female,34,22.9,Asthma,No,Southwest,107148,24700.8
+41,Jamie Allen,Female,30,27.8,High Cholesterol,No,Midwest,135893,25464.4
+42,Lisa King,Male,69,33.4,Asthma,No,Northeast,73750,35158.8
+43,Laurie Watson,Male,70,31.9,High Cholesterol,No,Midwest,73622,38412.4
+44,Angela Rice,Female,68,37.2,High Cholesterol,No,Southeast,89736,37765.0
+45,Richard Nolan,Male,31,26.0,Hypertension,No,West,146466,27771.8
+46,Alexis Brown,Male,79,28.1,Sleep Apnea,No,Southwest,151969,50862.4
+47,Kathy Burgess,Male,47,38.3,None,No,Northwest,132710,23821.0
+48,Rhonda Hunter,Male,47,39.8,Asthma,No,Northwest,125545,28585.2
+49,Rachel Allen,Male,53,37.5,Hypertension,No,Northwest,62630,35441.0
+50,Lisa Watkins,Male,28,31.6,Sleep Apnea,No,Southwest,60172,30544.0
+51,Aaron Rogers,Male,77,19.6,Asthma,No,Northwest,98172,37549.2
+52,Chelsea Kent,Male,67,26.0,None,No,Northwest,62629,28801.0
+53,Noah Bonilla,Female,38,19.7,High Cholesterol,No,Midwest,116630,28054.0
+54,Janice Harris,Female,55,39.1,High Cholesterol,No,Southwest,114455,33556.9
+55,Michelle Rodriguez,Female,44,35.2,Sleep Apnea,No,Northwest,76795,36918.4
+56,Garrett Foster,Female,53,27.0,Sleep Apnea,No,West,95087,40504.0
+57,Annette Adams,Female,76,19.6,Hypertension,No,Southwest,142408,43458.8
+58,Laura Gomez,Male,30,37.1,Hypertension,No,Northwest,66150,27423.2
+59,Robert Young,Male,55,37.0,Hypertension,No,Southeast,50141,36138.2
+60,Haley Ramsey,Male,43,22.3,None,No,Northwest,88061,22825.0
+61,Joseph Jenkins,Female,28,23.2,Type 2 Diabetes,No,Southeast,142741,34362.0
+62,Andrew Barry,Female,45,38.9,Type 2 Diabetes,No,West,54459,41981.4
+63,Steven Lane,Female,55,37.0,Arthritis,No,West,119518,38719.5
+64,Michelle Norris,Female,74,31.9,None,No,Southwest,68969,30544.0
+65,Justin Ramirez,Female,59,32.8,None,No,Southwest,104714,26809.0
+66,Mrs. Melissa Dunlap,Male,49,33.9,None,No,Northeast,152685,24319.0
+67,Billy Smith,Female,28,38.2,High Cholesterol,No,Southwest,146083,24817.0
+68,Kristy French,Female,72,29.3,None,No,Southwest,34775,30046.0
+69,Jacob Robertson,Male,60,26.9,High Cholesterol,Yes,Southwest,47343,51360.4
+70,Kenneth Barnes,Female,25,27.4,Hypertension,No,Southeast,130306,25680.2
+71,Thomas Hinton,Male,59,33.7,Type 2 Diabetes,No,Southwest,103751,48256.2
+72,David Brock,Male,67,38.0,None,No,Southeast,153160,28801.0
+73,Jillian Gonzalez,Male,35,21.6,Asthma,No,Southwest,108578,24999.6
+74,Rachel Cooper,Male,35,25.6,Hypertension,No,Southwest,78543,29166.2
+75,Anthony Bennett,Female,53,20.7,High Cholesterol,No,Northeast,85145,32909.5
+76,Susan Brown,Male,27,35.4,Type 2 Diabetes,No,Northwest,136704,33913.8
+77,Erica Johnson,Male,85,37.0,None,No,Northwest,114378,33283.0
+78,Eric Martinez,Male,25,36.0,Type 2 Diabetes,No,Southwest,84904,33017.4
+79,Tina Harper,Female,54,35.1,Asthma,No,Midwest,43198,30676.8
+80,Nathan Cooper,Male,51,36.5,Type 2 Diabetes,No,Northeast,141151,44670.6
+81,Kelly Green,Male,76,23.6,Type 2 Diabetes,No,Northeast,42268,55875.6
+82,Scott Maldonado,Male,74,20.5,Type 2 Diabetes,No,Midwest,140484,54979.2
+83,Zachary Stevens,Male,28,31.4,Sleep Apnea,No,Midwest,96851,30544.0
+84,Erik Smith,Female,48,32.4,High Cholesterol,No,Northwest,111004,31291.0
+85,Sara Molina,Female,49,27.8,Hypertension,No,Northeast,46340,34046.6
+86,Nicole Meyer,Female,57,36.1,Arthritis,No,Midwest,137837,39466.5
+87,Corey Glass,Female,58,28.3,Asthma,No,Northeast,100593,31872.0
+88,Michaela Harris DDS,Male,74,19.1,Arthritis,No,West,41701,45816.0
+89,Mario Young,Male,18,32.8,Hypertension,No,Southeast,111225,23240.0
+90,Jason Weaver,Female,78,32.8,High Cholesterol,No,Northwest,89677,41002.0
+91,Alicia Davis,Male,38,26.2,Type 2 Diabetes,No,West,54094,38844.0
+92,Zachary Hernandez,Female,54,19.9,Type 2 Diabetes,No,Northwest,92972,46015.2
+93,Emily Benson,Male,38,21.3,Arthritis,No,Northwest,146256,32370.0
+94,Tamara Baker,Male,25,34.5,Type 2 Diabetes,No,Southeast,108914,33017.4
+95,Kimberly Hamilton,Female,40,33.8,High Cholesterol,Yes,Midwest,55667,44886.4
+96,Jessica Pratt,Male,44,35.1,Sleep Apnea,Yes,Midwest,125225,56838.4
+97,James Hall,Male,73,27.6,None,No,Southeast,41402,30295.0
+98,Jamie Powell,Male,32,19.2,Asthma,Yes,Southwest,142557,39043.2
+99,Shawn Lawson,Female,23,31.0,Hypertension,No,Southwest,93658,24983.0
+100,Joseph Smith,Male,84,28.1,Sleep Apnea,Yes,Southeast,116657,72774.4
+101,Michael Sweeney,Female,35,19.3,High Cholesterol,No,Southeast,74438,27082.9
+102,Alicia Cline,Male,75,19.4,Type 2 Diabetes,No,Northwest,120713,55427.4
+103,Cynthia Hensley,Female,71,27.5,Arthritis,Yes,Southeast,74574,63370.5
+104,Julia Reynolds,Male,40,19.8,Sleep Apnea,No,Midwest,81195,35324.8
+105,Rachel Smith,Male,43,29.5,Arthritis,No,Northeast,42816,34237.5
+106,Rebecca Perez,Male,52,18.5,Hypertension,No,Northeast,71765,35092.4
+107,Cody Gray,Female,41,34.9,Hypertension,No,West,146270,31257.8
+108,Jaime Lloyd,Female,66,32.4,Sleep Apnea,No,Midwest,57920,45683.2
+109,Sandra Johnson,Female,55,33.4,Arthritis,Yes,Midwest,145111,57394.5
+110,Natalie Montgomery,Male,43,22.3,Hypertension,No,Southwest,153108,31955.0
+111,Adam Lamb,Female,60,30.9,Hypertension,No,Northwest,63247,37881.2
+112,Valerie Bell,Male,85,19.0,Sleep Apnea,No,Midwest,39496,53252.8
+113,Martin Barker,Male,37,21.6,High Cholesterol,No,Northeast,136019,27730.3
+114,Joseph Murphy,Male,55,35.3,Sleep Apnea,No,Midwest,98947,41300.8
+115,Kristin Griffin,Female,33,32.3,High Cholesterol,Yes,Midwest,41973,42620.5
+116,Daniel Rodgers,Female,46,20.8,Arthritis,Yes,Southeast,84942,54033.0
+117,Anthony Sampson II,Male,49,22.5,Type 2 Diabetes,Yes,Northwest,143792,66184.2
+118,Jo Clark,Female,25,30.0,Hypertension,Yes,West,80208,43110.2
+119,Dr. Christina Mendez,Male,19,25.7,Asthma,No,Southwest,98453,20218.8
+120,Jessica Miller,Male,33,23.6,Hypertension,No,Southwest,77258,28469.0
+121,Stephen Jones,Female,21,34.3,Hypertension,No,Southwest,75276,24285.8
+122,Kimberly Fischer,Female,45,26.8,Hypertension,No,West,121655,32652.2
+123,Jason Taylor,Male,52,30.8,Sleep Apnea,No,West,42579,40105.6
+124,Dwayne Martinez,Female,29,39.7,Hypertension,No,Northwest,109306,27074.6
+125,Richard Wilcox,Male,67,19.8,None,No,Midwest,73684,28801.0
+126,Oscar Collins,Male,83,39.7,Hypertension,Yes,Northwest,149735,63329.0
+127,Rachel Santos,Male,70,22.4,Asthma,No,West,135473,35457.6
+128,Vanessa Lozano,Male,69,29.8,Asthma,Yes,Northwest,46405,50098.8
+129,Alison Skinner,Male,81,18.6,Arthritis,No,Northwest,155618,48430.5
+130,Kelly Lowe,Female,72,20.4,Hypertension,No,Southwest,60606,42064.4
+131,Paul Crawford,Female,27,26.9,Hypertension,No,Northwest,134661,26377.4
+132,Rebekah Kelly,Female,62,31.5,Sleep Apnea,No,Midwest,64553,44089.6
+133,Michelle Taylor,Female,41,23.6,None,No,Southwest,90237,22327.0
+134,Annette Hall,Male,76,32.9,Hypertension,No,Southeast,138298,43458.8
+135,Rebecca Patton,Female,80,18.8,Type 2 Diabetes,No,West,97261,57668.4
+136,Tammy Conley,Male,27,21.5,Sleep Apnea,No,Midwest,73100,30145.6
+137,Jeffrey Sandoval,Female,84,35.3,Type 2 Diabetes,No,Midwest,48788,59461.2
+138,Daniel Thomas,Female,26,22.7,None,Yes,Northwest,39634,31042.0
+139,Bryan Allen,Female,61,35.5,None,No,Southwest,133486,27307.0
+140,Ralph Stafford,Male,71,28.1,Hypertension,No,West,86955,41715.8
+141,Jeffrey Gonzalez,Male,43,18.6,Asthma,No,Northeast,52316,27390.0
+142,Christopher Burton,Female,45,34.4,Sleep Apnea,No,Northeast,52434,37316.8
+143,Christina Lynch,Male,38,24.8,Arthritis,No,Southwest,133745,32370.0
+144,Cassandra Rubio,Male,35,29.6,Asthma,Yes,Southeast,40093,39939.6
+145,Mr. Bradley Phillips,Female,36,31.5,None,No,Northeast,80251,21082.0
+146,Mrs. Tina Davis,Female,33,29.9,High Cholesterol,No,Northeast,84571,26435.5
+147,Cynthia Gonzales,Male,46,29.8,Sleep Apnea,No,Southeast,134373,37715.2
+148,Linda Robinson,Male,47,38.0,None,No,Northeast,69643,23821.0
+149,Jessica Walter,Male,66,35.1,Asthma,No,Southeast,147196,34262.4
+150,Robin Merritt,Male,30,26.9,None,No,Northwest,92822,19588.0
+151,Nicole Watts,Female,74,26.0,None,No,Midwest,156973,30544.0
+152,Maria Burch,Female,75,23.8,None,No,Northeast,43223,30793.0
+153,Lucas Davis,Female,82,28.7,High Cholesterol,No,West,158809,42296.8
+154,Haley Young,Female,44,21.8,Hypertension,No,Northwest,110087,32303.6
+155,David Romero,Male,19,34.9,Type 2 Diabetes,No,Southeast,37561,30328.2
+156,Patricia Williamson,Male,32,32.7,Arthritis,No,Southeast,89268,30129.0
+157,Nancy Miller,Male,78,28.2,Hypertension,Yes,Midwest,51716,61586.0
+158,Justin Fisher,Female,27,33.0,Arthritis,No,Southwest,69068,28261.5
+159,Justin Wood,Female,78,27.3,Arthritis,No,Midwest,107622,47310.0
+160,William Nguyen,Female,32,25.3,Hypertension,Yes,Southwest,52093,45550.4
+161,Jacob Huffman,Female,48,36.7,High Cholesterol,No,Northwest,35756,31291.0
+162,Kelsey Hernandez,Male,57,39.9,Sleep Apnea,No,Southeast,72112,42097.6
+163,Jessica Jones,Male,28,22.1,Asthma,No,West,56978,22908.0
+164,Steven Huber,Female,36,34.7,None,Yes,Southwest,52032,33532.0
+165,William Haynes,Male,63,31.1,Sleep Apnea,No,Midwest,137679,44488.0
+166,Lynn Lopez,Female,28,36.1,Arthritis,No,Southeast,107456,28635.0
+167,Kelsey Allen,Female,28,19.4,High Cholesterol,Yes,Southeast,104320,41002.0
+168,John Rivas,Male,37,36.4,Type 2 Diabetes,Yes,Midwest,150447,60805.8
+169,Sheryl Rodriguez,Male,74,39.4,Sleep Apnea,No,Midwest,43690,48870.4
+170,Christian Williamson,Female,72,28.7,None,Yes,West,103168,42496.0
+171,William Richards,Male,60,20.7,Arthritis,No,West,32000,40587.0
+172,Jeffrey Nelson,Female,30,20.0,Type 2 Diabetes,No,Northeast,86539,35258.4
+173,Jacqueline Williams,Male,46,33.0,Asthma,No,Southeast,109105,28286.4
+174,Toni Smith,Male,19,35.6,None,No,Southwest,84062,16849.0
+175,Beverly Cruz,Male,61,26.3,Sleep Apnea,No,West,71776,43691.2
+176,Sarah Estrada,Male,36,34.6,Sleep Apnea,No,Northwest,140819,33731.2
+177,Tracy Jones,Female,65,23.7,None,No,Southwest,88103,28303.0
+178,Alexis Townsend,Male,53,23.7,High Cholesterol,No,West,149795,32909.5
+179,Eric White,Male,44,22.0,Type 2 Diabetes,No,Northeast,62864,41533.2
+180,Angie Coleman,Male,48,36.3,Asthma,Yes,Northwest,157455,43824.0
+181,Matthew Maynard,Female,55,27.0,Type 2 Diabetes,No,West,91584,46463.4
+182,Jerome Miller,Male,55,22.3,Type 2 Diabetes,No,Northwest,70481,46463.4
+183,Rose Moreno,Female,21,38.4,Type 2 Diabetes,No,Southeast,81732,31224.6
+184,Kevin Perez,Female,80,26.7,High Cholesterol,No,Northwest,114611,41649.4
+185,Lisa Garrett,Male,42,24.7,Type 2 Diabetes,No,Northeast,47358,40636.8
+186,Courtney Miller,Male,39,19.0,Hypertension,No,Southeast,155889,30560.6
+187,Tammy Finley,Female,60,20.3,Type 2 Diabetes,Yes,Northwest,81168,71114.4
+188,Brittney Hill,Female,65,37.2,Hypertension,No,Southwest,114777,39624.2
+189,Jeffrey Hernandez,Male,26,33.2,Sleep Apnea,No,Midwest,68760,29747.2
+190,Sarah Martin,Male,20,21.5,Asthma,Yes,Southwest,124872,35457.6
+191,Ronald Lopez,Female,30,24.4,Sleep Apnea,No,Southeast,141052,31340.8
+192,William Reeves,Male,65,18.6,Asthma,No,Southeast,80455,33963.6
+193,Kendra Webster,Male,29,23.8,Arthritis,No,Northeast,103031,29008.5
+194,Daniel Johnson,Male,54,28.6,Type 2 Diabetes,No,Southeast,115239,46015.2
+195,Dawn Carpenter,Male,61,29.8,Type 2 Diabetes,Yes,West,129715,71562.6
+196,Hunter Page,Female,80,36.6,Sleep Apnea,No,Midwest,123644,51260.8
+197,Kristen Bradley,Male,38,24.3,None,Yes,Southwest,70796,34030.0
+198,John Torres,Female,48,29.3,Type 2 Diabetes,No,West,72491,43326.0
+199,Zachary Ross,Female,43,25.4,Sleep Apnea,No,Northwest,95680,36520.0
+200,Brittany Perez,Female,44,34.8,Sleep Apnea,No,Midwest,46247,36918.4
+201,Richard Johnson,Male,84,27.8,Asthma,No,Southeast,81404,39640.8
+202,Dorothy Williams,Female,47,26.0,Hypertension,No,Southwest,158084,33349.4
+203,Paul Moore,Female,48,31.6,Sleep Apnea,No,Southwest,147641,38512.0
+204,Dr. Christopher Brown DDS,Male,33,20.9,Hypertension,No,Southeast,84989,28469.0
+205,Stephanie Wilson,Male,57,21.5,None,No,Southwest,126666,26311.0
+206,Brianna Allen,Male,72,21.0,High Cholesterol,No,Southwest,46290,39059.8
+207,Christina Austin,Female,84,19.5,Hypertension,Yes,Southeast,137655,63677.6
+208,Tracey Bass,Female,72,36.9,Hypertension,No,Southeast,152918,42064.4
+209,Melanie Sullivan,Male,73,29.7,High Cholesterol,No,Southeast,59086,39383.5
+210,Ian Fletcher,Male,78,37.4,Hypertension,No,Midwest,61650,44156.0
+211,Edward Jones,Female,73,31.4,None,No,Southeast,58859,30295.0
+212,Michelle Steele,Female,57,21.1,Sleep Apnea,Yes,Northwest,40903,62017.6
+213,Shelby Harrison,Male,33,34.1,Hypertension,Yes,Southwest,70576,45899.0
+214,Joseph Ruiz,Female,82,20.4,High Cholesterol,No,Southwest,145519,42296.8
+215,Sharon Ferguson,Male,43,39.4,None,No,Southeast,147164,22825.0
+216,Carrie Mcmahon,Female,85,33.6,Sleep Apnea,No,Southeast,139008,53252.8
+217,Wayne Murray,Male,84,30.4,Arthritis,No,Northeast,94816,49551.0
+218,Sean Meadows,Male,33,22.0,High Cholesterol,No,Southwest,115956,26435.5
+219,Stacey Ferguson,Female,35,20.6,None,No,West,98445,20833.0
+220,Phillip Leonard,Female,74,38.6,Asthma,No,West,113407,36652.8
+221,John Harrison,Female,22,34.2,High Cholesterol,No,Southwest,48904,22874.8
+222,Jonathon Chandler,Female,26,37.0,Hypertension,No,West,125050,26028.8
+223,Bryan Saunders,Female,44,39.7,Asthma,Yes,Midwest,79131,42628.8
+224,Brian Lopez,Female,52,37.1,Hypertension,Yes,Southeast,88608,52522.4
+225,Dillon Zamora,Female,70,36.9,Arthritis,No,Northeast,106731,44322.0
+226,Charles Huang,Female,57,19.4,Asthma,No,Northeast,125160,31573.2
+227,Margaret Mcbride,Female,22,36.8,Asthma,No,Northwest,155957,21115.2
+228,Russell Howard,Male,26,36.4,None,No,Northwest,65298,18592.0
+229,Joshua Guzman,Female,77,21.3,Type 2 Diabetes,No,West,76905,56323.8
+230,Monica Mendoza,Female,60,20.6,Hypertension,Yes,Northeast,50072,55311.2
+231,Justin Gray,Male,64,35.1,Sleep Apnea,No,Northeast,58346,44886.4
+232,Adam Potter,Male,63,39.2,Type 2 Diabetes,No,Southwest,55514,50049.0
+233,Misty Reed,Male,49,28.1,Type 2 Diabetes,No,Midwest,151476,43774.2
+234,Mrs. Kelsey Young DVM,Female,78,28.2,None,No,West,69580,31540.0
+235,Sean Nash,Female,65,25.6,None,No,Northwest,69844,28303.0
+236,Ashley Mcclain,Female,31,39.2,Type 2 Diabetes,Yes,Southeast,80245,58116.6
+237,Steven Summers,Female,78,27.5,Type 2 Diabetes,No,Midwest,89792,56772.0
+238,Christine Morse,Female,54,24.8,Asthma,No,Northwest,76115,30676.8
+239,Ashley Wright,Female,31,21.6,High Cholesterol,Yes,West,134826,41973.1
+240,Nicole Lee,Female,22,37.8,High Cholesterol,No,Southwest,44009,22874.8
+241,Rachel Roy,Female,45,22.4,Hypertension,No,Northeast,155407,32652.2
+242,William Adams,Female,66,27.4,High Cholesterol,No,Southwest,134447,37117.6
+243,Michael Lee,Female,52,36.1,None,No,Southeast,105843,25066.0
+244,Breanna Arnold,Male,57,37.3,Sleep Apnea,No,Southeast,44130,42097.6
+245,Paul Gordon IV,Female,82,33.6,Type 2 Diabetes,No,Northwest,74653,58564.8
+246,Christy Meza,Male,20,30.4,Sleep Apnea,No,Midwest,76458,27356.8
+247,Michael Hansen,Male,75,23.7,Asthma,No,Southwest,112581,36951.6
+248,Michael King,Male,68,37.5,Arthritis,No,Northwest,144484,43575.0
+249,Victor Gomez,Female,24,38.6,None,No,West,119530,18094.0
+250,Brandon Mcguire,Female,38,33.4,High Cholesterol,No,Southwest,105388,28054.0
+251,Natalie Stokes,Female,19,23.2,High Cholesterol,No,Midwest,100218,21903.7
+252,Tyler Monroe,Male,85,18.7,None,No,Northwest,41090,33283.0
+253,Laura Patrick,Female,39,33.6,High Cholesterol,No,Northeast,54838,28377.7
+254,Brian Kelley,Female,41,33.0,High Cholesterol,No,Southeast,55048,29025.1
+255,Carolyn Salas,Female,60,40.0,Asthma,No,West,57079,32469.6
+256,Courtney Smith,Male,74,29.0,High Cholesterol,Yes,Southwest,141420,55892.2
+257,Linda Garcia,Female,31,19.1,Type 2 Diabetes,Yes,Northeast,38016,58116.6
+258,Ryan Hunt,Male,38,20.0,Type 2 Diabetes,No,Northeast,66966,38844.0
+259,Jordan Charles,Male,37,36.3,Asthma,No,Northeast,95053,25597.2
+260,Anthony Murphy,Male,66,27.8,Sleep Apnea,No,Southwest,82759,45683.2
+261,Bridget Dunlap,Female,83,20.0,High Cholesterol,No,Southeast,90579,42620.5
+262,John Lopez,Female,23,23.3,Asthma,Yes,Southwest,92904,36354.0
+263,David Schmidt,Female,55,35.4,Arthritis,No,West,119279,38719.5
+264,Lisa Reyes,Female,39,39.5,None,No,Northeast,113376,21829.0
+265,Paul Russell,Male,27,26.7,High Cholesterol,No,Southeast,78499,24493.3
+266,Sarah Miller,Male,83,27.1,High Cholesterol,No,Southeast,134273,42620.5
+267,Jessica Jackson,Female,54,20.6,Asthma,No,Southeast,58105,30676.8
+268,Melody Hensley,Male,47,22.6,Asthma,No,Northwest,139455,28585.2
+269,Tracy Ramos,Male,72,23.4,High Cholesterol,No,Northwest,30669,39059.8
+270,Jennifer Camacho,Female,43,27.2,High Cholesterol,No,Northwest,107043,29672.5
+271,Matthew Martin,Male,39,34.6,Hypertension,Yes,Northeast,54081,47990.6
+272,Stacey Fields,Female,80,20.9,Hypertension,No,Midwest,137898,44853.2
+273,Nancy Thompson,Male,45,24.2,None,No,Midwest,139511,23323.0
+274,Sherry Brown,Female,79,19.6,High Cholesterol,No,Southwest,137351,41325.7
+275,Diane Smith,Male,81,25.3,Asthma,No,West,93783,38744.4
+276,Kevin Ruiz,Female,54,28.1,Hypertension,No,Midwest,44133,35789.6
+277,Shirley Duffy,Male,77,29.5,Sleep Apnea,No,West,100089,50065.6
+278,Ashley Mueller,Male,74,19.0,Arthritis,Yes,Southwest,83060,64491.0
+279,Elizabeth Wright,Female,40,29.2,Hypertension,No,Southwest,146621,30909.2
+280,Andrew Carter,Male,37,21.1,None,No,Northwest,114292,21331.0
+281,Christopher Moore,Female,81,34.8,Sleep Apnea,Yes,Northeast,68655,71579.2
+282,Aaron Griffith,Female,52,26.1,Asthma,No,Southeast,41229,30079.2
+283,Travis Francis,Male,21,37.6,Sleep Apnea,No,Northwest,79399,27755.2
+284,Rebecca Powell,Female,48,36.7,Hypertension,No,Northwest,117000,33698.0
+285,Audrey Gomez,Female,71,36.5,Hypertension,No,Southwest,159230,41715.8
+286,Malik Graham,Female,63,30.1,Hypertension,No,Southwest,134071,38927.0
+287,Caleb Wiggins,Male,32,20.6,Asthma,No,West,133445,24103.2
+288,Evan Johnson,Male,56,28.4,Sleep Apnea,No,Northeast,34450,41699.2
+289,Megan Anderson,Female,47,20.3,Sleep Apnea,No,Southeast,98094,38113.6
+290,Sherry Simmons,Male,20,22.8,Sleep Apnea,Yes,Northwest,150195,47276.8
+291,Michele Henry,Male,35,27.8,Type 2 Diabetes,Yes,Midwest,149664,59909.4
+292,Donald Mcclure,Male,31,33.9,Type 2 Diabetes,No,Midwest,101095,35706.6
+293,Mary Rose,Female,78,31.1,Arthritis,No,Southwest,70620,47310.0
+294,Daniel Miller,Female,41,30.8,Hypertension,No,Northeast,68336,31257.8
+295,Danielle Harrison,Male,85,36.1,Asthma,Yes,Southwest,106829,54879.6
+296,Samantha Chang,Male,76,35.4,High Cholesterol,No,Midwest,94900,40354.6
+297,Jackie Roberson,Female,83,39.8,Sleep Apnea,Yes,Northwest,47872,72376.0
+298,Johnathan Charles,Female,41,24.6,None,No,Northwest,85547,22327.0
+299,Laura Fernandez,Male,76,38.7,Asthma,No,Northeast,75343,37250.4
+300,Russell Rollins,Female,47,20.0,High Cholesterol,No,West,113372,30967.3
+301,Jeffery Morris,Female,72,27.5,Type 2 Diabetes,No,Southwest,76796,54082.8
+302,Paul Williams,Male,53,25.7,High Cholesterol,No,Southeast,117799,32909.5
+303,Denise Tucker,Female,64,21.5,Arthritis,No,Northwest,30891,42081.0
+304,David Owen,Female,38,36.1,High Cholesterol,No,Northwest,45862,28054.0
+305,Brandon Reed,Male,76,35.3,Sleep Apnea,No,West,61521,49667.2
+306,Dr. Deanna Cook MD,Female,34,38.0,Type 2 Diabetes,No,Northeast,141599,37051.2
+307,Jessica Duran,Female,82,33.1,Type 2 Diabetes,No,Northwest,91686,58564.8
+308,Kathryn Crosby,Female,69,25.0,Hypertension,No,Midwest,30080,41018.6
+309,Sophia Moore,Male,68,28.0,None,No,Midwest,61829,29050.0
+310,John Jones,Male,21,26.7,High Cholesterol,No,Northwest,143601,22551.1
+311,Melissa Bailey,Female,75,32.5,Arthritis,No,Northwest,92899,46189.5
+312,William Ward,Male,81,34.1,Arthritis,Yes,West,93881,67105.5
+313,Amy Espinoza,Female,68,19.9,Hypertension,No,Southwest,58433,40670.0
+314,James Thompson,Male,27,18.7,Type 2 Diabetes,No,Southeast,134172,33913.8
+315,Chad Hanson,Female,72,32.5,Asthma,Yes,Southwest,137636,50995.2
+316,Pamela Jimenez,Male,69,27.1,High Cholesterol,Yes,Northwest,145992,54273.7
+317,Joshua Mccullough,Female,77,26.1,High Cholesterol,No,West,65301,40678.3
+318,Nathaniel Clark,Female,83,31.0,Hypertension,Yes,Northeast,141069,63329.0
+319,Molly Rogers,Male,70,30.2,High Cholesterol,No,Northwest,34859,38412.4
+320,Allen Rogers,Female,70,24.3,Asthma,No,Northwest,58939,35457.6
+321,Michael Hudson,Female,76,40.0,Arthritis,No,West,88667,46563.0
+322,Gregory Lee,Male,69,37.1,Hypertension,No,Northwest,42368,41018.6
+323,Adrian Roman,Female,19,27.7,Asthma,No,Northwest,35155,20218.8
+324,Suzanne Little,Male,67,25.2,Hypertension,No,Northwest,88465,40321.4
+325,Pamela Cantrell,Female,25,36.1,None,No,Northeast,64805,18343.0
+326,Andrea Harris,Female,65,34.3,Sleep Apnea,No,Southeast,59660,45284.8
+327,Richard Sims,Male,22,25.4,Asthma,No,Southeast,149936,21115.2
+328,Jeremy Davis,Male,48,20.8,Hypertension,No,West,159247,33698.0
+329,Nicole Ingram,Female,64,32.4,None,No,Southeast,70262,28054.0
+330,Mary Humphrey,Female,51,24.1,Arthritis,No,West,138458,37225.5
+331,Matthew Mendoza,Female,31,22.6,High Cholesterol,No,Southeast,132893,25788.1
+332,Maureen Cochran,Male,49,23.6,Arthritis,No,Southwest,149798,36478.5
+333,Debra Thompson,Male,27,35.8,Asthma,No,Southeast,149316,22609.2
+334,Christopher Moon,Male,83,34.9,Hypertension,No,Southeast,75346,45899.0
+335,Natasha Rios,Female,78,31.4,Arthritis,No,Midwest,54129,47310.0
+336,Christina Terry,Female,37,36.2,Sleep Apnea,No,Southeast,43259,34129.6
+337,Charles Padilla,Female,60,35.1,Arthritis,No,Southwest,89890,40587.0
+338,Sheila Hall,Male,45,21.2,High Cholesterol,No,Midwest,129693,30319.9
+339,Wayne Silva,Female,28,39.6,Type 2 Diabetes,No,Northeast,150803,34362.0
+340,Cynthia Marshall,Female,58,35.2,Asthma,Yes,Northeast,57333,46812.0
+341,Kelly Rivera,Female,80,33.1,Arthritis,Yes,Midwest,158153,66732.0
+342,Timothy Harper,Male,85,27.7,Sleep Apnea,No,Northwest,62740,53252.8
+343,Robert Torres,Male,24,38.1,Sleep Apnea,No,West,152628,28950.4
+344,Andrew Stephens,Male,80,22.0,Arthritis,No,Midwest,134721,48057.0
+345,Eric Webster,Male,23,26.9,Hypertension,No,Northwest,134788,24983.0
+346,Valerie Huynh,Male,65,31.2,Hypertension,No,Southeast,67898,39624.2
+347,Tracy James,Male,34,36.3,Arthritis,No,Northeast,149069,30876.0
+348,Joel Lopez,Male,47,38.7,Type 2 Diabetes,No,West,142649,42877.8
+349,Aaron Arnold,Female,70,37.7,Arthritis,No,Northwest,147412,44322.0
+350,Shannon Moore,Male,36,39.3,High Cholesterol,Yes,Northwest,50234,43591.6
+351,Jessica Nelson,Male,72,29.7,None,Yes,Southeast,59129,42496.0
+352,Charles Walters,Female,66,39.4,High Cholesterol,No,West,114453,37117.6
+353,Marc Perry,Female,60,29.7,Asthma,No,West,41984,32469.6
+354,Randy Moody,Female,56,22.7,Arthritis,Yes,Northeast,88955,57768.0
+355,Colleen Riley,Female,81,38.2,Sleep Apnea,No,Southeast,155325,51659.2
+356,Greg Diaz III,Male,64,21.9,None,No,Southeast,81499,28054.0
+357,Jordan Sims,Female,45,35.3,Type 2 Diabetes,No,West,51091,41981.4
+358,Kayla Baxter,Male,47,28.2,Sleep Apnea,Yes,Northwest,130657,58033.6
+359,Christopher Phillips,Male,22,20.6,None,Yes,Midwest,144467,30046.0
+360,Mitchell Howard,Female,47,36.0,High Cholesterol,No,Southeast,35408,30967.3
+361,Jack Lopez,Male,78,38.9,Arthritis,No,Northeast,32490,47310.0
+362,Kathleen Hayes,Female,25,27.0,Asthma,Yes,Midwest,94885,36951.6
+363,Lisa Williams,Female,51,21.9,Arthritis,No,Southwest,37660,37225.5
+364,Julie Hicks,Female,29,37.0,None,No,Southwest,61237,19339.0
+365,Jessica Kirby,Female,32,23.0,Asthma,No,Northwest,136863,24103.2
+366,Joel Price,Female,52,35.8,Hypertension,No,Southwest,154018,35092.4
+367,Timothy Anderson,Male,55,34.5,Type 2 Diabetes,No,Northeast,110371,46463.4
+368,Anthony Schwartz,Female,52,29.6,Hypertension,No,Southeast,125580,35092.4
+369,Cody Thompson,Male,61,24.5,None,No,Northwest,45356,27307.0
+370,Vincent Becker,Male,64,39.8,None,No,Northeast,147525,28054.0
+371,Lee Young,Female,45,28.0,None,Yes,Northwest,68952,35773.0
+372,Matthew Holmes,Male,60,27.8,High Cholesterol,No,Southeast,108488,35175.4
+373,Amanda Mendez,Male,70,22.9,Type 2 Diabetes,Yes,Southeast,92450,75596.4
+374,Laura Gonzales,Male,53,19.5,None,No,Midwest,72148,25315.0
+375,Tyler Rodriguez,Male,79,28.2,High Cholesterol,No,Northwest,42851,41325.7
+376,Deborah Yang,Male,24,34.3,High Cholesterol,No,Midwest,152665,23522.2
+377,Bradley Mullins,Female,37,22.7,Hypertension,Yes,Northeast,66756,47293.4
+378,Justin Johnson,Male,28,23.0,Hypertension,Yes,Midwest,126369,44156.0
+379,Laura Gross,Male,42,26.3,High Cholesterol,No,Midwest,106240,29348.8
+380,Amanda Williams,Female,85,28.6,High Cholesterol,Yes,West,32281,59452.9
+381,Brenda Hughes,Male,29,24.8,High Cholesterol,Yes,Northeast,84516,41325.7
+382,Jared Edwards,Male,41,29.6,None,Yes,Northeast,57524,34777.0
+383,Ryan Crawford,Male,19,22.3,High Cholesterol,Yes,Midwest,79020,38088.7
+384,Natalie Thomas DVM,Male,75,20.1,Asthma,No,Southwest,155855,36951.6
+385,Brian Myers,Male,39,19.3,High Cholesterol,No,Midwest,133688,28377.7
+386,Patricia Johnson,Female,36,32.8,High Cholesterol,Yes,Midwest,30654,43591.6
+387,Jessica Carpenter,Male,50,20.0,Asthma,No,West,109115,29481.6
+388,Virginia Cole,Female,18,35.4,High Cholesterol,Yes,Midwest,155260,37765.0
+389,David Fields,Female,69,33.2,Type 2 Diabetes,Yes,Northwest,47022,75148.2
+390,Jason Clark,Female,55,26.5,None,No,Southwest,102920,25813.0
+391,David Edwards,Male,35,23.1,Arthritis,Yes,Northeast,73815,49924.5
+392,Dylan Ford,Female,58,32.3,None,Yes,Northeast,159667,39010.0
+393,Mary Ellis,Male,59,32.4,Asthma,No,Northeast,98696,32170.8
+394,Randy Brown,Male,34,39.2,Hypertension,No,Northwest,39741,28817.6
+395,Jennifer Hall,Female,47,38.7,Asthma,No,Northwest,68314,28585.2
+396,Christopher Williams,Female,82,26.7,Arthritis,No,Southeast,33452,48804.0
+397,Robert Green,Female,33,30.7,Sleep Apnea,No,Northwest,108968,32536.0
+398,Brittney Hughes,Female,38,33.1,None,No,Northwest,141344,21580.0
+399,Felicia Miles,Female,24,29.7,Arthritis,No,Southwest,75221,27141.0
+400,Edward Jones,Male,26,36.3,None,No,Northwest,146701,18592.0
+401,Mary Winters,Female,52,35.4,Arthritis,No,West,127923,37599.0
+402,Valerie Wong,Male,28,19.6,High Cholesterol,No,Southeast,36270,24817.0
+403,Thomas Coleman,Female,30,29.4,None,No,Northeast,112375,19588.0
+404,Robert Webster,Female,62,21.5,Asthma,No,Southeast,34518,33067.2
+405,Susan Harris,Male,18,26.4,Sleep Apnea,No,Southwest,50445,26560.0
+406,Johnny Wagner,Male,60,38.4,Arthritis,No,Midwest,38091,40587.0
+407,Heather Thomas,Female,66,37.2,None,No,Midwest,64296,28552.0
+408,Lee Marshall,Male,57,20.3,Sleep Apnea,No,Southwest,33519,42097.6
+409,Joshua Alvarado,Female,65,25.6,None,No,Midwest,47337,28303.0
+410,Kayla Beck,Male,80,34.2,Hypertension,No,Midwest,54746,44853.2
+411,Jeffrey Herrera,Female,23,36.0,Hypertension,No,Northwest,143497,24983.0
+412,Jessica Hopkins,Male,49,38.7,Hypertension,Yes,Southwest,67772,51476.6
+413,Tony Ingram,Male,80,22.6,Arthritis,No,Southwest,72716,48057.0
+414,John Morse,Male,58,27.0,None,No,Northwest,107302,26560.0
+415,Samantha Summers,Female,85,18.8,High Cholesterol,No,Midwest,111716,43267.9
+416,Jeffrey Nichols,Female,62,35.6,Asthma,Yes,West,59989,48007.2
+417,Ariel Simpson,Female,59,38.8,None,Yes,West,99156,39259.0
+418,Brett Robinson,Male,48,39.8,Type 2 Diabetes,No,Southeast,117030,43326.0
+419,Sharon Curry,Male,56,23.2,Sleep Apnea,No,Southeast,130939,41699.2
+420,Richard Jordan,Male,79,32.6,Type 2 Diabetes,No,West,71213,57220.2
+421,Danielle Ware,Female,69,18.9,Asthma,No,Northwest,34877,35158.8
+422,Kathryn Horton DVM,Female,69,26.6,None,No,West,94595,29299.0
+423,Catherine Hogan,Female,25,32.6,Hypertension,Yes,Midwest,31070,43110.2
+424,Sandra Alexander,Female,52,32.2,Hypertension,No,Midwest,75858,35092.4
+425,William Rogers,Female,79,26.4,High Cholesterol,No,Southeast,120566,41325.7
+426,Jeremy Garcia,Female,25,27.7,Hypertension,No,Northeast,44305,25680.2
+427,Elizabeth Hernandez,Female,38,21.1,Type 2 Diabetes,Yes,Southwest,46771,61254.0
+428,Dr. Steve Hoffman,Male,58,18.9,Type 2 Diabetes,No,West,45429,47808.0
+429,Jay Roberts,Male,76,33.0,Type 2 Diabetes,No,West,139127,55875.6
+430,Joseph Smith,Female,73,27.8,Arthritis,No,Southeast,131281,45442.5
+431,Margaret Bennett,Male,41,22.0,Arthritis,Yes,Southwest,92805,52165.5
+432,Zachary Robinson,Male,79,38.0,High Cholesterol,No,Midwest,74507,41325.7
+433,Ryan Zimmerman,Female,84,37.0,None,No,Southwest,134498,33034.0
+434,Brandon Harris,Female,19,25.8,Sleep Apnea,Yes,Southwest,58045,46878.4
+435,Karen Price,Male,23,29.6,Sleep Apnea,Yes,Northeast,67428,48472.0
+436,Gregory Clay,Female,79,39.5,Asthma,No,Midwest,83097,38146.8
+437,Kathryn Castro,Female,84,23.2,High Cholesterol,No,Northeast,111444,42944.2
+438,Bernard Shepard,Male,37,36.6,Type 2 Diabetes,No,Northwest,49376,38395.8
+439,Eric Medina,Female,71,37.6,Sleep Apnea,Yes,Northwest,116125,67595.2
+440,Ashley Hart,Male,18,27.0,Sleep Apnea,No,Southeast,137047,26560.0
+441,Scott Rodriguez,Female,38,35.9,Arthritis,No,Southeast,66429,32370.0
+442,Anna Hall,Male,82,26.2,Arthritis,No,Northwest,59471,48804.0
+443,Brian Bradley,Female,73,29.8,Hypertension,No,Southeast,140315,42413.0
+444,Joe Santos,Male,82,25.4,High Cholesterol,Yes,Southwest,56954,58481.8
+445,Elijah Murphy,Female,54,23.4,Type 2 Diabetes,No,Southwest,129881,46015.2
+446,Barry Moore,Male,42,30.4,Hypertension,Yes,Northeast,125473,49036.4
+447,Kristi Quinn,Female,59,20.6,None,No,Northeast,131787,26809.0
+448,Jessica French,Male,50,24.9,High Cholesterol,No,Northeast,34062,31938.4
+449,Danny Evans,Female,20,21.2,Asthma,No,Southwest,106719,20517.6
+450,Wesley Moore,Male,57,35.0,High Cholesterol,No,Southeast,39800,34204.3
+451,William Rice,Male,51,26.1,High Cholesterol,No,Northwest,48221,32262.1
+452,William Baker,Female,36,32.2,Arthritis,No,West,159192,31623.0
+453,Jennifer Davies,Female,76,24.6,Type 2 Diabetes,Yes,Southeast,102450,78285.6
+454,Johnathan Johnson,Male,49,32.1,High Cholesterol,No,Southeast,136392,31614.7
+455,Jamie Hoffman,Male,44,22.6,Sleep Apnea,No,Southwest,108586,36918.4
+456,Joshua Graham,Female,54,35.8,High Cholesterol,No,West,118668,33233.2
+457,Lauren Cobb,Male,53,27.3,Sleep Apnea,Yes,Midwest,143434,60424.0
+458,Courtney Campbell,Female,85,27.7,Asthma,No,Southeast,138590,39939.6
+459,Michael Adams,Female,71,35.0,Sleep Apnea,No,Northwest,41745,47675.2
+460,Mark Allen,Female,19,23.6,High Cholesterol,No,Midwest,122564,21903.7
+461,Cindy Glover,Female,68,23.4,Sleep Apnea,No,West,76611,46480.0
+462,Heather Walker,Male,79,21.2,None,Yes,Northwest,140001,44239.0
+463,Misty Johnson,Female,20,25.5,Type 2 Diabetes,Yes,West,47804,53186.4
+464,Jennifer Williams,Female,27,33.7,Hypertension,No,Northwest,107088,26377.4
+465,Matthew White,Male,63,18.7,None,No,Southwest,85018,27805.0
+466,Gabriel Dean,Male,25,24.4,Asthma,No,Northeast,77782,22011.6
+467,Michael Merritt,Male,50,37.3,Arthritis,No,Southwest,121468,36852.0
+468,Gregory Brewer,Female,25,25.5,Type 2 Diabetes,No,Midwest,31244,33017.4
+469,Tonya Graham,Female,57,24.4,Hypertension,No,Northwest,143101,36835.4
+470,Sarah Oliver,Female,27,24.2,Asthma,No,Southeast,76575,22609.2
+471,Ashley Murphy,Female,76,31.1,Arthritis,No,West,52464,46563.0
+472,Kayla Perez,Male,55,29.2,Hypertension,No,Midwest,39066,36138.2
+473,Robert Harmon,Male,26,36.2,Asthma,No,Southeast,93735,22310.4
+474,Erin Nelson,Female,80,35.1,Arthritis,No,Southeast,72656,48057.0
+475,Sharon Collins,Male,27,28.5,Asthma,No,Midwest,145343,22609.2
+476,Lisa Santos,Female,43,36.0,Sleep Apnea,No,West,99354,36520.0
+477,Ann Knight MD,Female,69,30.9,None,No,Northwest,91568,29299.0
+478,Alyssa Hahn,Male,21,34.9,Arthritis,No,Midwest,39152,26020.5
+479,Alec Bautista,Male,76,37.0,Hypertension,No,Midwest,105985,43458.8
+480,Makayla Clark,Male,65,39.8,Hypertension,No,Northeast,95133,39624.2
+481,Joshua Rocha,Female,44,34.8,High Cholesterol,Yes,Midwest,99134,46181.2
+482,Larry Ramirez,Male,20,26.1,Sleep Apnea,No,Northwest,100699,27356.8
+483,Brian Cole,Female,29,26.9,Sleep Apnea,Yes,Northeast,43307,50862.4
+484,Joshua Garcia,Male,38,24.3,None,No,Northeast,115813,21580.0
+485,Andrew Ward,Female,51,35.9,Asthma,No,Midwest,136080,29780.4
+486,Christine Neal,Female,62,38.1,Arthritis,No,West,141082,41334.0
+487,Natasha Hall,Male,45,30.3,Asthma,No,Southwest,34745,27987.6
+488,Erica Morris,Male,62,30.7,None,Yes,Southeast,148724,40006.0
+489,Annette Solis,Male,80,24.6,Arthritis,Yes,Northeast,155147,66732.0
+490,Christina Vega,Male,53,20.5,Asthma,No,Northeast,111371,30378.0
+491,Daniel Bryant,Male,55,24.2,Sleep Apnea,No,Northwest,77874,41300.8
+492,Jose Esparza,Male,22,33.3,Type 2 Diabetes,No,Northwest,129295,31672.8
+493,Jerry Kelly,Male,70,20.3,Sleep Apnea,No,Midwest,37823,47276.8
+494,Matthew Edwards,Male,80,26.8,Type 2 Diabetes,Yes,Northeast,88396,80078.4
+495,Anthony Espinoza DDS,Male,54,35.2,Hypertension,No,Southeast,77669,35789.6
+496,Diana Rojas,Male,82,28.7,Type 2 Diabetes,No,Northwest,69085,58564.8
+497,Tammy Andersen,Female,69,24.3,Asthma,No,West,118325,35158.8
+498,Adam Caldwell,Male,51,29.7,None,No,West,111349,24817.0
+499,Michael Cortez,Male,45,25.2,Sleep Apnea,Yes,Southeast,86127,57236.8
+500,Jessica Luna,Female,28,36.1,None,No,Southwest,71537,19090.0
+501,Gary Hunter,Male,44,25.6,Sleep Apnea,No,West,148699,36918.4
+502,Bruce Bailey,Male,26,35.6,Arthritis,Yes,Southeast,157084,46563.0
+503,Christina Ellis,Male,27,33.5,Hypertension,No,West,102411,26377.4
+504,John Robinson,Male,45,25.7,Asthma,No,West,141354,27987.6
+505,Jennifer Blankenship,Female,33,22.2,High Cholesterol,No,Southwest,138460,26435.5
+506,Anthony Ali,Male,34,37.1,Sleep Apnea,No,West,55289,32934.4
+507,Anthony Harris,Male,48,36.5,Type 2 Diabetes,No,Southwest,104959,43326.0
+508,Mr. Jason Craig,Female,42,31.4,High Cholesterol,No,Southwest,82868,29348.8
+509,Kevin Campbell,Female,78,28.5,Type 2 Diabetes,Yes,Southwest,67530,79182.0
+510,Christopher Smith,Female,68,25.8,Sleep Apnea,No,Midwest,157310,46480.0
+511,Francis Hernandez,Female,34,18.5,Arthritis,No,Southeast,32050,30876.0
+512,Jeffrey Garner,Male,25,25.8,Sleep Apnea,No,Midwest,96359,29348.8
+513,Timothy Small,Female,69,32.6,High Cholesterol,No,Northwest,155636,38088.7
+514,Brittany Brooks,Female,76,31.1,Hypertension,No,Midwest,50647,43458.8
+515,Darlene Pena,Female,44,32.9,Arthritis,Yes,Southwest,59743,53286.0
+516,Daniel Barrett,Female,42,23.0,Sleep Apnea,No,Midwest,56319,36121.6
+517,Gerald Allen,Female,25,29.7,Asthma,No,Southwest,44003,22011.6
+518,April Thompson,Female,19,24.7,Type 2 Diabetes,Yes,Northeast,66580,52738.2
+519,Laura Olson,Female,48,27.1,Sleep Apnea,No,Northwest,60658,38512.0
+520,Micheal Davis,Female,61,21.5,None,No,West,32204,27307.0
+521,Isabella Wilkins,Male,68,21.4,Sleep Apnea,Yes,Northeast,99652,66400.0
+522,Julie Campbell,Female,47,19.5,Arthritis,No,Northeast,66977,35731.5
+523,Joseph Johnson,Female,56,31.9,Type 2 Diabetes,Yes,Southwest,126162,69321.6
+524,Kevin Fowler,Male,20,29.1,Sleep Apnea,No,Midwest,107609,27356.8
+525,Ryan Jones,Female,38,37.0,None,No,Southeast,41148,21580.0
+526,Barbara Weiss,Male,18,36.2,Type 2 Diabetes,No,Southeast,143818,29880.0
+527,Valerie Brown,Male,27,32.2,Sleep Apnea,Yes,West,126561,50065.6
+528,Melinda Ingram,Female,67,20.1,Asthma,No,Northeast,101059,34561.2
+529,Eduardo Yang,Female,30,22.5,Type 2 Diabetes,No,Midwest,48204,35258.4
+530,Louis Norton,Female,54,27.7,Arthritis,No,West,95713,38346.0
+531,Jessica Everett,Male,37,39.2,Hypertension,Yes,Southwest,45348,47293.4
+532,Miss Alexandra Garcia,Male,58,25.5,Sleep Apnea,No,Southwest,88563,42496.0
+533,Brian Chambers,Male,42,20.2,None,Yes,Southeast,52748,35026.0
+534,Rebekah Brown,Female,56,38.3,Arthritis,No,Northeast,108771,39093.0
+535,Alan Marshall,Female,60,32.1,Arthritis,No,West,94802,40587.0
+536,William Li,Male,64,19.1,Type 2 Diabetes,No,West,84243,50497.2
+537,Micheal Thomas,Male,25,22.9,Type 2 Diabetes,No,Midwest,88235,33017.4
+538,Robert Wilkins,Male,84,27.2,Type 2 Diabetes,Yes,Southwest,103180,81871.2
+539,Brittany Rodriguez,Male,59,30.6,None,No,Southeast,113149,26809.0
+540,Mary Pearson MD,Female,72,35.3,None,Yes,Midwest,148382,42496.0
+541,Mariah Cochran,Male,66,32.5,High Cholesterol,No,Northeast,159821,37117.6
+542,Juan Ellis,Male,56,39.2,Arthritis,No,Southwest,34946,39093.0
+543,Melody Thompson,Female,67,39.9,Asthma,No,Northwest,78902,34561.2
+544,Micheal Perez DVM,Female,29,35.5,Type 2 Diabetes,No,Southeast,37497,34810.2
+545,Monica Ellis,Female,46,38.3,Asthma,No,Southwest,118136,28286.4
+546,Kenneth Hill,Female,63,38.8,Type 2 Diabetes,No,Midwest,136279,50049.0
+547,Alexander Green,Female,44,39.7,None,Yes,Northwest,105086,35524.0
+548,Tom Wallace,Male,56,39.8,Hypertension,No,Northeast,56128,36486.8
+549,Mitchell Kim,Female,41,22.1,Hypertension,No,Midwest,84397,31257.8
+550,Mary Mendoza,Female,63,34.4,Type 2 Diabetes,No,Midwest,110252,50049.0
+551,Kathryn Cooper,Female,40,38.9,Arthritis,No,Northeast,67797,33117.0
+552,Andrew Humphrey,Female,45,38.7,High Cholesterol,No,Southeast,111861,30319.9
+553,Michelle Rodriguez,Male,76,19.5,Hypertension,No,Southwest,61190,43458.8
+554,Jennifer Hill,Male,80,23.9,None,No,Southeast,78939,32038.0
+555,Brandi Hines MD,Female,58,28.9,Sleep Apnea,No,West,37427,42496.0
+556,Peter Morris,Male,70,39.5,Type 2 Diabetes,No,Midwest,58144,53186.4
+557,Jessica Carter,Female,26,26.9,Arthritis,No,Northeast,75517,27888.0
+558,Cheryl Turner,Male,27,34.8,Arthritis,No,Northwest,50640,28261.5
+559,Daniel Martin,Male,57,38.6,Arthritis,No,Midwest,64267,39466.5
+560,Bradley Shaffer,Female,28,34.8,Arthritis,No,Southwest,46891,28635.0
+561,Thomas Flores,Male,56,26.2,Arthritis,No,Southeast,143678,39093.0
+562,Mark Jones,Female,30,31.2,Sleep Apnea,Yes,Southwest,102470,51260.8
+563,David Monroe,Male,27,25.6,None,No,Midwest,114463,18841.0
+564,John Cox,Female,21,38.3,High Cholesterol,No,Northwest,49405,22551.1
+565,Carolyn Strickland,Male,43,38.2,Sleep Apnea,Yes,Northeast,89944,56440.0
+566,Patricia Scott,Female,22,26.5,Asthma,Yes,Midwest,141613,36055.2
+567,Gregory Parker,Female,29,21.2,Asthma,No,Northwest,85724,23206.8
+568,Teresa Ford,Male,32,37.7,Arthritis,No,Northeast,100220,30129.0
+569,Valerie Wilcox,Male,44,22.3,None,No,Midwest,45582,23074.0
+570,Sharon White,Female,56,39.1,Asthma,No,West,131707,31274.4
+571,Morgan Hanson MD,Female,43,25.5,Type 2 Diabetes,No,Southeast,143770,41085.0
+572,Cynthia May,Male,85,25.3,Hypertension,No,Northeast,48031,46596.2
+573,Mark Mckinney DVM,Female,81,21.0,Hypertension,Yes,Midwest,93690,62631.8
+574,Susan Ayala,Male,81,21.5,Sleep Apnea,No,Southeast,111714,51659.2
+575,Carrie Nelson,Male,44,23.8,High Cholesterol,No,Northwest,84038,29996.2
+576,Timothy Waller,Female,44,38.2,Asthma,Yes,Southeast,122649,42628.8
+577,William Morris,Female,19,25.5,Type 2 Diabetes,Yes,Southeast,82522,52738.2
+578,Michelle Ball,Male,51,33.9,Sleep Apnea,No,Southwest,63055,39707.2
+579,Anita Cook,Female,75,21.0,High Cholesterol,Yes,Midwest,80231,56215.9
+580,Christine Sherman,Female,21,26.5,Sleep Apnea,Yes,Midwest,95893,47675.2
+581,David Robinson,Male,54,39.8,High Cholesterol,No,West,91548,33233.2
+582,Jessica Morris,Male,81,33.4,High Cholesterol,No,Northwest,39038,41973.1
+583,Lisa Woods,Female,65,28.3,Hypertension,No,West,74646,39624.2
+584,James Miller,Male,21,27.0,Type 2 Diabetes,No,Northeast,86574,31224.6
+585,Ryan Nunez,Male,53,31.2,Arthritis,No,Southeast,69570,37972.5
+586,Kristen Ashley,Female,24,19.9,Arthritis,No,Southwest,82688,27141.0
+587,Gregory Turner,Female,23,33.7,Type 2 Diabetes,No,West,51897,32121.0
+588,Mary Smith,Male,43,39.6,Asthma,No,Northwest,104253,27390.0
+589,Ryan Lopez,Male,74,22.3,Hypertension,No,Northeast,37230,42761.6
+590,Jeffrey Long MD,Female,31,25.6,None,No,Southeast,89271,19837.0
+591,Aaron Moses,Female,49,30.6,Hypertension,No,Northwest,145440,34046.6
+592,Jacqueline Cohen,Male,37,26.4,None,No,Southwest,30179,21331.0
+593,Connie Randolph,Male,26,27.1,High Cholesterol,Yes,Midwest,85682,40354.6
+594,Debra Herman,Male,44,31.9,Arthritis,No,Northeast,149570,34611.0
+595,Marissa Mcdaniel,Male,50,22.0,Hypertension,No,Southwest,141254,34395.2
+596,Kimberly Sosa,Female,32,25.8,Arthritis,No,Southwest,102297,30129.0
+597,Brittany Jennings,Female,19,38.4,None,Yes,Southeast,32743,29299.0
+598,Danielle Kelly,Male,18,29.0,High Cholesterol,No,Southwest,42934,21580.0
+599,William Hunt,Female,72,25.0,Arthritis,No,Midwest,100275,45069.0
+600,William Barrett,Male,57,33.7,Asthma,No,Northwest,62266,31573.2
+601,Amanda Davis,Female,79,21.6,Type 2 Diabetes,No,Northwest,79554,57220.2
+602,Ryan Bryant,Male,72,21.6,Asthma,No,Southeast,159635,36055.2
+603,Richard Brown,Female,26,26.7,Sleep Apnea,No,Northwest,147966,29747.2
+604,Dawn Ortiz,Female,45,38.7,Sleep Apnea,No,Southeast,83266,37316.8
+605,Melissa Hamilton,Male,63,19.1,None,No,Southwest,71042,27805.0
+606,Cody Contreras,Male,33,34.4,Sleep Apnea,No,West,88727,32536.0
+607,Linda Schroeder,Male,27,19.6,Arthritis,No,Southwest,139889,28261.5
+608,William Meadows,Female,24,35.8,Asthma,No,Northwest,92627,21712.8
+609,Michele Johnson,Male,71,18.8,None,No,Midwest,47146,29797.0
+610,Brandon Baker,Female,30,21.3,High Cholesterol,No,Southwest,112733,25464.4
+611,Lacey Baker,Male,35,25.7,Asthma,No,Midwest,99209,24999.6
+612,Sean Tate,Female,44,19.9,Sleep Apnea,No,Southwest,101410,36918.4
+613,Melanie Miller,Female,74,25.1,High Cholesterol,No,Midwest,41806,39707.2
+614,Eric Baker,Male,63,29.0,Type 2 Diabetes,No,West,139320,50049.0
+615,Heather Kemp,Male,82,31.7,High Cholesterol,No,Northeast,52868,42296.8
+616,Brittany Benson,Male,85,31.6,Asthma,Yes,West,100139,54879.6
+617,Michael Berry,Male,79,26.3,Type 2 Diabetes,Yes,Northeast,95511,79630.2
+618,Samantha Hicks DDS,Male,68,35.1,Arthritis,No,Northwest,143547,43575.0
+619,Kristin Johnston,Male,80,29.2,Asthma,No,Northeast,128201,38445.6
+620,Anna Hernandez,Female,67,23.0,Asthma,Yes,Midwest,158911,49501.2
+621,Gregory Palmer,Male,23,22.4,Type 2 Diabetes,No,Midwest,105586,32121.0
+622,Michael White,Male,72,20.3,None,No,Northwest,54385,30046.0
+623,Carlos Turner,Male,41,20.8,Asthma,No,Midwest,158791,26792.4
+624,Dana Owens MD,Female,81,26.3,Hypertension,No,Southeast,131064,45201.8
+625,Amanda Carrillo,Male,27,28.2,None,Yes,Southwest,77320,31291.0
+626,Erica Torres,Female,78,22.1,None,No,Northwest,83031,31540.0
+627,James Wright,Male,78,23.4,None,No,Midwest,38078,31540.0
+628,Craig Peterson,Male,49,38.6,Sleep Apnea,No,Southwest,132886,38910.4
+629,Jose Martin,Female,18,37.8,High Cholesterol,No,West,57646,21580.0
+630,Rhonda Flynn,Male,84,35.7,Sleep Apnea,Yes,Northwest,124491,72774.4
+631,Mr. Robert King,Male,71,27.8,Arthritis,No,Northwest,69407,44695.5
+632,David Davis,Male,54,34.4,Asthma,No,Northeast,62430,30676.8
+633,Trevor Drake,Male,79,32.7,High Cholesterol,Yes,Southwest,119116,57510.7
+634,Emily Walker,Female,78,30.7,High Cholesterol,Yes,West,32333,57187.0
+635,Michele Robinson,Female,43,35.6,None,No,West,98267,22825.0
+636,Diana Wright,Male,67,30.6,Arthritis,Yes,Southwest,48809,61876.5
+637,David Bond,Male,75,26.7,Hypertension,No,Northeast,56013,43110.2
+638,Jessica Daniels,Male,47,25.6,None,No,Southeast,125104,23821.0
+639,Keith Smith,Female,78,35.9,None,No,Midwest,86106,31540.0
+640,John Mayer,Female,23,34.7,Asthma,No,West,135935,21414.0
+641,Kelly Johnson,Female,68,25.2,Asthma,No,Northwest,146813,34860.0
+642,Claudia Patel,Male,19,18.7,Type 2 Diabetes,No,Southwest,100278,30328.2
+643,David Adkins,Male,55,30.8,Hypertension,No,Southwest,132866,36138.2
+644,Henry Ortiz,Female,23,20.5,Hypertension,No,Southwest,48310,24983.0
+645,Donald Washington,Male,70,19.7,Asthma,No,Northeast,121167,35457.6
+646,Eric Smith,Female,77,31.9,None,No,West,130913,31291.0
+647,Oscar Bridges,Male,61,28.8,Type 2 Diabetes,No,Midwest,158732,49152.6
+648,Cynthia Gonzalez,Female,35,21.8,None,No,Midwest,37351,20833.0
+649,Michelle Patterson,Male,45,28.3,None,No,Midwest,51569,23323.0
+650,Victoria Phillips,Female,75,35.7,None,No,Midwest,61624,30793.0
+651,Jerry Graham,Female,35,26.5,High Cholesterol,No,Midwest,67329,27082.9
+652,Daniel Mccormick,Male,49,30.5,None,Yes,Northeast,135847,36769.0
+653,Lucas Walters,Female,26,22.1,Type 2 Diabetes,No,West,105752,33465.6
+654,Leah Evans,Male,85,38.9,Type 2 Diabetes,No,Midwest,105897,59909.4
+655,John Pearson,Female,69,21.9,High Cholesterol,No,Northwest,88083,38088.7
+656,Jonathan Potter,Female,50,38.7,None,No,Southeast,112020,24568.0
+657,Angela Lindsey,Male,53,33.7,None,No,Southwest,60644,25315.0
+658,Sandra Evans,Female,60,25.7,None,No,West,95380,27058.0
+659,Joshua Flores,Male,64,26.0,High Cholesterol,No,West,104769,36470.2
+660,Juan Garcia,Female,30,24.3,Hypertension,No,Southeast,118872,27423.2
+661,Jacqueline Montgomery,Female,67,28.3,Asthma,No,Northeast,116237,34561.2
+662,Ann Stevens,Female,81,33.6,None,No,Midwest,108991,32287.0
+663,Brian Roberts,Female,42,30.0,None,No,Northeast,59885,22576.0
+664,Rachel Ryan,Female,74,21.7,Type 2 Diabetes,No,Northwest,120118,54979.2
+665,Curtis Johnson,Female,80,33.6,Arthritis,No,Midwest,62042,48057.0
+666,Jeanne Petersen,Male,46,34.7,Arthritis,No,Northeast,125937,35358.0
+667,John Soto,Female,59,29.1,Hypertension,No,Northeast,149574,37532.6
+668,Michelle Esparza,Male,80,24.6,Type 2 Diabetes,No,Midwest,133278,57668.4
+669,Kevin Hernandez,Male,63,19.7,Arthritis,No,Southwest,147913,41707.5
+670,Brianna Landry,Female,74,28.8,Hypertension,No,Northeast,145113,42761.6
+671,Lisa Jones,Female,77,39.0,None,Yes,West,159601,43741.0
+672,Christine Smith,Female,85,38.6,Arthritis,No,Northeast,110364,49924.5
+673,Michael Mcclure,Male,38,39.3,Type 2 Diabetes,Yes,Southwest,135700,61254.0
+674,Pam Martin,Male,82,30.4,Arthritis,No,Northeast,127442,48804.0
+675,Johnny Rogers,Male,38,22.3,Type 2 Diabetes,No,Northwest,107529,38844.0
+676,Sara Johnson,Male,51,22.8,Hypertension,No,Southwest,65750,34743.8
+677,Carrie Martinez,Female,82,37.5,Asthma,No,Southwest,66162,39043.2
+678,Holly Rodriguez,Female,83,26.6,High Cholesterol,No,Midwest,37963,42620.5
+679,James Brown,Female,47,25.5,None,No,Northeast,79724,23821.0
+680,Philip Morgan,Male,77,23.2,Hypertension,No,Northeast,148262,43807.4
+681,Abigail Weber,Female,52,28.7,High Cholesterol,No,Midwest,87920,32585.8
+682,Eugene Greer,Female,40,22.6,Type 2 Diabetes,No,Northeast,62155,39740.4
+683,Michelle Nelson,Female,38,30.1,High Cholesterol,No,West,151000,28054.0
+684,Mary Parker,Female,51,18.6,Sleep Apnea,No,Northwest,138810,39707.2
+685,Amy Young,Male,79,33.8,Type 2 Diabetes,No,Northeast,102290,57220.2
+686,Julie Young,Female,39,38.2,None,No,Northeast,58396,21829.0
+687,Ronald James,Female,42,29.9,High Cholesterol,No,Northeast,60007,29348.8
+688,Rita Paul,Female,44,31.2,Asthma,No,Northeast,69203,27688.8
+689,Gina Robinson,Female,46,19.2,None,No,West,94448,23572.0
+690,Bailey Flores,Female,79,23.4,Type 2 Diabetes,No,Midwest,46553,57220.2
+691,Timothy Rivers,Female,21,24.7,Asthma,No,West,152280,20816.4
+692,Wanda Frederick,Male,41,25.6,Arthritis,No,Southeast,92076,33490.5
+693,Wendy Bentley,Male,18,24.0,Arthritis,Yes,Midwest,158899,43575.0
+694,Pamela Lee,Male,80,29.8,Type 2 Diabetes,No,Northeast,130840,57668.4
+695,Brian Alexander,Male,45,35.3,High Cholesterol,No,Southwest,40502,30319.9
+696,Tyler Turner,Female,29,28.3,Arthritis,No,Northwest,75449,29008.5
+697,Garrett Downs,Female,84,26.5,Arthritis,No,Midwest,136127,49551.0
+698,Stacey Cooper,Male,81,32.3,Asthma,No,Southeast,51993,38744.4
+699,Rodney Meyers,Male,39,36.6,Asthma,Yes,Northwest,156305,41134.8
+700,Thomas Butler,Male,28,32.2,None,No,Northwest,73020,19090.0
+701,Benjamin Ford,Male,85,25.0,Type 2 Diabetes,No,Southwest,98146,59909.4
+702,Desiree Taylor,Female,57,37.5,Arthritis,No,Northeast,152997,39466.5
+703,Michael Price,Male,24,23.9,Hypertension,No,Midwest,133015,25331.6
+704,Richard Williams,Female,43,23.5,High Cholesterol,No,Midwest,89567,29672.5
+705,Christopher Bautista,Female,53,32.4,Type 2 Diabetes,No,Midwest,34574,45567.0
+706,Adrian Hebert,Female,21,33.6,High Cholesterol,No,Northeast,110516,22551.1
+707,Andrew Norman,Female,77,26.5,High Cholesterol,No,West,56752,40678.3
+708,Kathryn Morris,Female,67,21.0,Hypertension,No,Northeast,59056,40321.4
+709,Rebecca Jackson,Male,57,23.7,Type 2 Diabetes,No,Northwest,85009,47359.8
+710,Nicole Perkins,Female,42,20.0,Type 2 Diabetes,No,Southeast,113346,40636.8
+711,Emily Park,Female,52,22.0,Type 2 Diabetes,No,West,103030,45118.8
+712,Brittany Schwartz,Male,70,38.3,Arthritis,No,West,71964,44322.0
+713,Levi Bell,Female,67,37.2,Hypertension,No,West,78911,40321.4
+714,Natalie Archer,Female,46,20.8,None,No,Southeast,159795,23572.0
+715,Derrick Powell,Male,35,26.6,Arthritis,No,Northeast,53722,31249.5
+716,Gloria Zhang,Female,44,25.7,Sleep Apnea,No,Northwest,159885,36918.4
+717,Gary Rogers,Male,71,24.5,High Cholesterol,No,Northwest,67726,38736.1
+718,Tracy Jones,Female,69,25.8,Type 2 Diabetes,No,Northeast,86023,52738.2
+719,John Mack,Male,65,38.3,High Cholesterol,No,Southeast,56355,36793.9
+720,Teresa Cruz,Female,35,23.4,High Cholesterol,Yes,Midwest,103784,43267.9
+721,Gina Arnold,Male,27,34.9,Type 2 Diabetes,Yes,West,144790,56323.8
+722,Alice Oconnor,Male,36,36.4,Arthritis,No,Midwest,67655,31623.0
+723,Tony Crawford,Female,49,34.4,Hypertension,No,Southwest,52090,34046.6
+724,Joanna Watson,Male,37,20.3,None,No,Northeast,80306,21331.0
+725,Cameron Bush,Female,69,21.7,Sleep Apnea,Yes,Southwest,54743,66798.4
+726,Tommy Knight,Male,79,39.6,Sleep Apnea,No,Southwest,42938,50862.4
+727,Eric Patel,Female,39,34.7,Asthma,Yes,Northwest,155769,41134.8
+728,Mr. Daniel Ramos,Female,41,24.1,High Cholesterol,No,Southwest,31515,29025.1
+729,James Summers,Female,81,22.7,None,No,Southeast,97905,32287.0
+730,Charles Thompson,Female,67,38.7,Arthritis,No,Southwest,129492,43201.5
+731,Dustin Lozano,Female,44,27.2,Arthritis,No,West,129085,34611.0
+732,Ms. Kathryn Gonzalez,Female,76,26.5,Type 2 Diabetes,No,Midwest,154089,55875.6
+733,Kimberly Ramirez,Female,28,38.2,None,Yes,Northwest,37353,31540.0
+734,Steven Hardy,Female,45,28.9,None,No,West,38535,23323.0
+735,Randall Campbell,Male,21,26.8,Asthma,No,Southwest,66763,20816.4
+736,Susan Farley DDS,Female,43,28.8,Type 2 Diabetes,No,Southwest,158121,41085.0
+737,Bryan Young,Male,70,34.0,Asthma,No,Northeast,59325,35457.6
+738,Thomas Silva,Male,19,26.0,High Cholesterol,No,West,81139,21903.7
+739,David Wallace,Male,70,27.9,Arthritis,No,Northwest,119180,44322.0
+740,John Pitts,Male,62,30.2,Hypertension,No,West,75978,38578.4
+741,Dr. Tiffany Rodriguez DVM,Female,73,20.5,Asthma,No,West,36210,36354.0
+742,James Hill,Female,27,39.0,High Cholesterol,No,Northwest,128709,24493.3
+743,Shelley Warner,Male,65,20.4,High Cholesterol,No,Northeast,144149,36793.9
+744,Timothy Schaefer,Female,58,28.0,Asthma,No,West,45028,31872.0
+745,Cameron Jones,Female,50,31.8,High Cholesterol,No,Southwest,112367,31938.4
+746,Jessica Rogers,Female,62,29.1,Hypertension,Yes,Southeast,141780,56008.4
+747,Jesse Brown,Male,63,18.5,Asthma,No,Northeast,83264,33366.0
+748,Melissa Watkins,Female,40,31.6,None,No,Northeast,33129,22078.0
+749,Shawn Cochran,Female,68,22.1,Sleep Apnea,No,Southeast,149469,46480.0
+750,Roy Brown,Male,45,36.9,Hypertension,No,West,151364,32652.2
+751,Manuel Davis,Male,49,39.8,Sleep Apnea,Yes,Midwest,149839,58830.4
+752,Barbara Jones,Female,63,23.2,Type 2 Diabetes,No,Northwest,69699,50049.0
+753,Lisa Olson,Male,69,34.2,Asthma,No,Southwest,104207,35158.8
+754,April Horne,Male,69,38.3,Hypertension,No,Midwest,118479,41018.6
+755,Mark Cook,Male,79,30.1,None,Yes,Northwest,37338,44239.0
+756,Joshua Gray,Female,66,37.3,High Cholesterol,No,Northeast,118786,37117.6
+757,Hector Fisher,Female,38,34.4,Asthma,No,Southwest,130034,25896.0
+758,Briana Cunningham,Female,42,25.6,Sleep Apnea,No,West,54351,36121.6
+759,Kathryn Dunlap,Male,50,21.4,High Cholesterol,No,Southwest,54105,31938.4
+760,Tammy Roberts,Male,56,19.7,Hypertension,Yes,West,50558,53916.8
+761,Michael Perez,Female,20,28.4,None,No,Southeast,155753,17098.0
+762,Thomas Cooper,Male,73,33.5,Arthritis,No,Northeast,113029,45442.5
+763,Jordan Kim,Female,25,29.9,None,No,Midwest,154369,18343.0
+764,Melissa Jones,Female,74,24.5,Hypertension,No,Midwest,103671,42761.6
+765,Paul Osborne,Male,47,28.1,High Cholesterol,No,West,112825,30967.3
+766,Bradley Cole MD,Female,56,24.0,Hypertension,No,Midwest,145505,36486.8
+767,Sabrina Torres,Male,28,37.9,Asthma,No,Southwest,104521,22908.0
+768,Renee Soto,Male,33,38.9,None,No,Southwest,128727,20335.0
+769,Jennifer Callahan,Male,47,39.8,Asthma,No,Midwest,131885,28585.2
+770,Brian Hardy,Male,83,31.9,Arthritis,No,Northwest,61740,49177.5
+771,Gregory Olson,Female,56,35.7,Hypertension,No,Northwest,38708,36486.8
+772,Michael Wilson,Female,36,38.5,Type 2 Diabetes,No,West,157723,37947.6
+773,Michael Nichols,Male,33,29.5,None,No,Midwest,140185,20335.0
+774,Vincent Black,Male,28,34.6,Asthma,No,Southwest,60803,22908.0
+775,Rhonda Pope,Male,28,33.5,Arthritis,No,Northwest,121670,28635.0
+776,Krystal Santos,Male,35,23.3,Sleep Apnea,No,Northeast,144956,33332.8
+777,Ms. Mary Hess,Male,73,35.7,None,Yes,Southeast,80515,42745.0
+778,Ashley Hoffman,Male,24,32.8,Asthma,No,Northeast,79528,21712.8
+779,Tamara Marquez,Female,19,34.5,Arthritis,No,Southeast,127921,25273.5
+780,Samuel Phillips,Male,85,20.0,Hypertension,No,Southwest,148705,46596.2
+781,Laurie Anderson,Male,85,21.9,None,No,Southwest,132871,33283.0
+782,Elizabeth Scott,Female,48,20.0,Type 2 Diabetes,Yes,Southeast,146822,65736.0
+783,Pamela West,Male,38,37.4,Sleep Apnea,No,Southeast,51814,34528.0
+784,Katherine Snyder,Female,44,37.6,None,Yes,Midwest,72139,35524.0
+785,Sarah Cole,Female,25,23.7,High Cholesterol,Yes,Southeast,98731,40030.9
+786,Jeffrey Reyes,Male,29,36.4,Hypertension,No,Midwest,96939,27074.6
+787,Julie Holmes,Male,20,39.2,Arthritis,No,Northeast,37060,25647.0
+788,Nicole Maldonado,Female,49,21.0,Sleep Apnea,Yes,Northeast,139448,58830.4
+789,Steven Schneider,Male,38,20.3,Sleep Apnea,No,Southwest,97991,34528.0
+790,Rachel Moore MD,Male,53,33.6,High Cholesterol,No,Southeast,78875,32909.5
+791,Dr. Zachary Henson,Male,41,30.7,None,No,Northeast,73252,22327.0
+792,Felicia Hardy,Male,52,20.4,None,No,Midwest,50731,25066.0
+793,Ronald Kline,Male,39,21.5,None,Yes,West,139330,34279.0
+794,Rebecca Browning,Male,40,24.3,High Cholesterol,No,Southeast,93814,28701.4
+795,Andrea Cabrera,Female,64,38.8,High Cholesterol,No,Southwest,133937,36470.2
+796,Alexander Rodriguez,Female,57,39.1,None,No,Northwest,107487,26311.0
+797,Christian Washington,Male,43,19.4,None,No,Midwest,70714,22825.0
+798,Christina Martinez,Male,64,25.1,Type 2 Diabetes,No,Northeast,117880,50497.2
+799,Elizabeth Mosley,Female,74,30.2,None,No,West,137896,30544.0
+800,William Franco,Female,82,35.0,Sleep Apnea,Yes,Northeast,45398,71977.6
+801,Michael Shah,Male,70,25.0,Asthma,No,Midwest,37327,35457.6
+802,Christopher Rivera,Male,83,19.5,Sleep Apnea,No,Midwest,61090,52456.0
+803,Carl Bennett,Male,48,27.5,Sleep Apnea,No,Midwest,127491,38512.0
+804,Derek Hayes,Male,40,32.7,Asthma,No,Midwest,86919,26493.6
+805,Madison Cook,Male,54,28.4,Hypertension,No,Southwest,97433,35789.6
+806,Anthony Armstrong,Male,72,38.2,Asthma,No,Southeast,154193,36055.2
+807,Jason Hunter,Male,19,23.1,Sleep Apnea,No,Midwest,59050,26958.4
+808,Cathy Salazar,Female,72,26.2,Arthritis,No,Southeast,90455,45069.0
+809,Scott Wilcox,Male,54,33.0,Type 2 Diabetes,Yes,Midwest,110926,68425.2
+810,David Price,Male,70,20.1,High Cholesterol,Yes,Southeast,135039,54597.4
+811,James Walton,Female,51,37.5,Asthma,Yes,Midwest,99460,44720.4
+812,Blake Meyers,Female,71,39.0,Type 2 Diabetes,Yes,Northeast,106272,76044.6
+813,Joan Walsh,Female,29,36.8,Asthma,No,Southwest,69880,23206.8
+814,Ryan Williams,Female,73,28.7,Hypertension,No,Midwest,147340,42413.0
+815,Samantha Nelson,Female,78,29.8,Arthritis,No,Southwest,152174,47310.0
+816,Elizabeth Lewis,Female,50,25.2,Asthma,Yes,Midwest,45852,44421.6
+817,Andrew Young,Female,30,20.6,Type 2 Diabetes,No,Northeast,107762,35258.4
+818,Kyle Simpson,Male,26,21.1,Arthritis,No,Northwest,48275,27888.0
+819,David Fisher,Female,61,23.3,Asthma,No,Southwest,103553,32768.4
+820,Shelly Hale,Female,27,26.5,Arthritis,No,Midwest,69284,28261.5
+821,Victoria Mcdaniel,Male,18,31.2,Asthma,No,West,31915,19920.0
+822,Michelle Castro,Female,39,33.0,Arthritis,No,Northeast,81652,32743.5
+823,Andrew Anderson,Female,26,32.3,Asthma,Yes,Northeast,47349,37250.4
+824,Benjamin Acosta MD,Female,19,29.5,Hypertension,No,Northwest,111677,23588.6
+825,Nancy Harris,Female,51,24.2,Hypertension,No,Southwest,88317,34743.8
+826,Antonio Fitzgerald,Male,73,21.4,Type 2 Diabetes,Yes,Southwest,92391,76941.0
+827,Linda Jordan,Male,29,34.2,Asthma,No,Northeast,152514,23206.8
+828,William Jackson,Female,71,32.1,Hypertension,No,Northwest,37974,41715.8
+829,Michael Pitts,Female,36,31.4,None,No,Northwest,40449,21082.0
+830,Omar Myers,Male,58,30.8,Sleep Apnea,No,Southeast,86251,42496.0
+831,Justin Marks,Male,23,26.1,Arthritis,No,Midwest,85717,26767.5
+832,Gregory Mitchell,Female,65,27.4,Sleep Apnea,No,Southeast,69555,45284.8
+833,Edward Holder,Female,64,27.4,None,No,Northeast,126927,28054.0
+834,Veronica Austin,Female,57,25.4,Asthma,No,Northwest,76046,31573.2
+835,Rachel Williams,Male,70,29.1,Arthritis,No,Northwest,47490,44322.0
+836,Mandy Williams,Female,39,28.3,Asthma,No,Midwest,37608,26194.8
+837,Mr. Bradley Spears,Female,39,21.0,Sleep Apnea,No,Northwest,98399,34926.4
+838,Patrick Stevenson,Male,85,30.5,Arthritis,No,Northwest,37187,49924.5
+839,Nicholas Gould,Male,77,19.0,None,No,Midwest,137379,31291.0
+840,Eric Campbell Jr.,Female,79,19.3,None,No,Southwest,100935,31789.0
+841,Lisa Baker,Female,38,31.3,Asthma,No,Southeast,71426,25896.0
+842,James Miller,Male,40,36.1,Sleep Apnea,No,Northeast,122060,35324.8
+843,Jesse Mcclure,Male,65,27.5,Sleep Apnea,No,Southeast,95230,45284.8
+844,Melinda Herrera,Male,56,28.5,High Cholesterol,No,Midwest,117487,33880.6
+845,Allison Schneider,Male,84,22.1,Sleep Apnea,No,Midwest,149605,52854.4
+846,Mrs. Amanda Villanueva,Female,41,38.5,Type 2 Diabetes,No,Midwest,36332,40188.6
+847,Brian David,Male,41,23.9,High Cholesterol,Yes,Midwest,157091,45210.1
+848,Matthew Collins,Female,43,25.4,High Cholesterol,No,Northwest,85298,29672.5
+849,Nicholas Galloway,Female,29,38.4,Type 2 Diabetes,No,Midwest,143215,34810.2
+850,Jonathan Santiago,Male,53,25.8,None,No,Midwest,76342,25315.0
+851,Charles Braun,Female,85,29.2,Hypertension,No,Northwest,79327,46596.2
+852,Richard Nguyen,Male,48,38.6,Sleep Apnea,Yes,Northwest,66085,58432.0
+853,Susan Blevins DDS,Male,34,29.4,Asthma,No,Southwest,147466,24700.8
+854,Matthew Ware,Male,52,29.9,Arthritis,Yes,Southeast,154977,56274.0
+855,Debra Peck,Male,81,39.9,Asthma,Yes,Southeast,79048,53684.4
+856,Kimberly Lopez,Male,52,21.4,Type 2 Diabetes,No,Northwest,72653,45118.8
+857,Seth Nelson MD,Female,41,19.5,Asthma,No,Southwest,61221,26792.4
+858,Pamela Hayes,Male,27,27.7,Hypertension,No,Southwest,44138,26377.4
+859,Jenna Glover,Male,64,25.1,Hypertension,No,Northwest,130299,39275.6
+860,Christine Johnson,Female,83,32.1,Sleep Apnea,No,Northwest,118832,52456.0
+861,William Walls,Male,20,37.0,Hypertension,Yes,West,140902,41367.2
+862,Joshua Cook,Male,70,31.1,Sleep Apnea,No,Northwest,133367,47276.8
+863,Benjamin Pacheco,Male,19,38.0,Hypertension,No,Midwest,136574,23588.6
+864,Sarah Valdez,Male,56,33.9,High Cholesterol,No,West,140147,33880.6
+865,Blake Ward,Male,85,37.7,None,No,Southwest,123270,33283.0
+866,John Owens,Male,49,22.5,High Cholesterol,Yes,Northeast,59289,47799.7
+867,Reginald Martin,Female,20,39.5,None,No,West,55593,17098.0
+868,Cassandra Matthews,Male,20,38.1,High Cholesterol,No,West,119405,22227.4
+869,Timothy Olson,Male,44,39.7,Asthma,Yes,Northwest,56356,42628.8
+870,Jennifer Powers DVM,Female,80,25.4,Sleep Apnea,No,Northwest,137615,51260.8
+871,Jamie Taylor,Male,73,37.3,None,No,Northeast,134827,30295.0
+872,Kevin Franklin,Female,37,31.5,Type 2 Diabetes,No,Southeast,44385,38395.8
+873,Theresa Lee,Female,71,37.9,Asthma,No,Midwest,113491,35756.4
+874,Juan Buchanan,Female,29,36.0,Sleep Apnea,No,Midwest,57917,30942.4
+875,Ryan Gray,Female,81,32.5,Sleep Apnea,No,Southeast,109686,51659.2
+876,Michelle Jones,Male,40,19.2,Type 2 Diabetes,No,Northeast,37150,39740.4
+877,Matthew Williams,Male,41,22.2,Type 2 Diabetes,Yes,West,43561,62598.6
+878,John Parsons,Male,55,35.5,Arthritis,No,Southeast,91907,38719.5
+879,Bryan Day,Female,76,35.0,Hypertension,No,Northwest,44206,43458.8
+880,Brian Gray,Female,64,21.2,High Cholesterol,No,Southwest,158655,36470.2
+881,Lindsey Weaver,Female,64,33.3,Sleep Apnea,Yes,Northeast,119516,64806.4
+882,Valerie Brooks,Female,40,24.0,Type 2 Diabetes,No,West,45731,39740.4
+883,Mark Davis,Female,45,20.7,Asthma,No,Northwest,73525,27987.6
+884,Michael James,Male,58,38.3,None,No,Southwest,112418,26560.0
+885,James Young,Female,38,28.2,Asthma,No,Northeast,97585,25896.0
+886,Lance Gonzalez,Female,61,33.1,High Cholesterol,No,Northeast,37709,35499.1
+887,Robert Jones,Female,55,21.7,Arthritis,Yes,Northwest,38416,57394.5
+888,Andrea Cochran,Female,29,26.2,Hypertension,No,Southeast,79816,27074.6
+889,Steven White,Male,50,29.2,High Cholesterol,No,Northeast,149582,31938.4
+890,Marissa Walls,Female,46,32.9,None,No,Midwest,104998,23572.0
+891,Elizabeth Rivas,Male,77,26.1,Asthma,No,Southwest,142732,37549.2
+892,Laura Mccoy,Male,38,21.4,High Cholesterol,No,Northeast,31608,28054.0
+893,William Clark,Female,65,26.2,Type 2 Diabetes,No,Northeast,109185,50945.4
+894,Mrs. Allison Cooper PhD,Male,18,22.0,Asthma,No,Northwest,100262,19920.0
+895,Tina Kennedy,Female,53,35.5,Asthma,No,West,147394,30378.0
+896,Rebecca Jones,Male,23,26.9,High Cholesterol,No,Northwest,117907,23198.5
+897,Jennifer Lee,Male,69,27.3,Sleep Apnea,No,Northwest,128498,46878.4
+898,Danny Wright,Male,72,39.8,High Cholesterol,No,West,108037,39059.8
+899,Douglas Wagner,Female,50,29.7,Asthma,No,West,126885,29481.6
+900,Scott Parker,Female,36,27.4,Arthritis,No,Northwest,140875,31623.0
+901,Kristen Fischer,Male,41,35.9,High Cholesterol,No,Southeast,51933,29025.1
+902,Jerry Kirby,Female,38,30.7,Asthma,No,West,111159,25896.0
+903,Debbie Bowman,Female,47,33.5,None,No,Midwest,86372,23821.0
+904,Michael Robinson,Male,78,26.8,None,No,Southwest,129760,31540.0
+905,Melinda Davis,Male,48,37.9,Hypertension,No,Midwest,122210,33698.0
+906,Christina Adams,Male,39,21.9,None,Yes,Southwest,158800,34279.0
+907,Tina Wright,Female,50,27.9,High Cholesterol,Yes,West,59407,48123.4
+908,Adam King,Male,59,33.9,High Cholesterol,No,Southwest,103028,34851.7
+909,Lynn Brown,Female,36,36.7,Sleep Apnea,Yes,Midwest,38168,53651.2
+910,Rebecca Davis,Male,45,38.0,Type 2 Diabetes,No,Southeast,157366,41981.4
+911,Catherine Higgins,Female,20,33.2,Type 2 Diabetes,Yes,Midwest,96518,53186.4
+912,Tara Clay DVM,Female,29,39.5,High Cholesterol,No,Midwest,105702,25140.7
+913,Kelly Obrien,Male,57,22.1,None,Yes,Southeast,30763,38761.0
+914,James Browning,Female,44,27.4,Hypertension,No,Northeast,98461,32303.6
+915,Jennifer Burns,Male,82,27.5,Type 2 Diabetes,No,Southeast,36561,58564.8
+916,Dana Gregory,Female,41,33.7,Sleep Apnea,Yes,Northwest,142126,55643.2
+917,Lacey Bell,Female,42,25.8,Sleep Apnea,No,Northeast,157534,36121.6
+918,Mary Brown,Male,74,18.7,Sleep Apnea,No,Northeast,126753,48870.4
+919,Cindy Austin,Female,19,23.7,Type 2 Diabetes,No,Southeast,102736,30328.2
+920,Julie Wilcox,Female,76,39.1,Type 2 Diabetes,No,Southwest,59787,55875.6
+921,David Campbell,Male,69,29.0,Sleep Apnea,Yes,Midwest,52751,66798.4
+922,Angela Pratt,Female,46,27.9,Asthma,No,Southwest,74734,28286.4
+923,Michael Lee,Female,51,20.2,Hypertension,No,Midwest,93544,34743.8
+924,Kathleen Robinson,Female,58,19.0,Asthma,Yes,West,99878,46812.0
+925,Tanner Dunn,Female,80,33.5,Asthma,No,Northeast,104392,38445.6
+926,Cassandra Hancock,Female,84,24.2,Sleep Apnea,Yes,Southeast,59691,72774.4
+927,Ashley Harper,Male,18,36.1,Type 2 Diabetes,No,Southeast,141117,29880.0
+928,Joshua Powell,Male,42,24.5,Asthma,Yes,Southeast,135725,42031.2
+929,Dana Leach,Male,31,28.7,Type 2 Diabetes,No,Northwest,157396,35706.6
+930,Emily Adams,Male,39,24.8,Hypertension,Yes,Midwest,154585,47990.6
+931,Daniel Huerta,Female,26,20.4,Arthritis,No,Midwest,33579,27888.0
+932,Virginia Jensen,Female,60,22.7,Hypertension,No,Northwest,142551,37881.2
+933,Cynthia Beard,Male,22,20.9,Arthritis,No,Northwest,59937,26394.0
+934,Timothy Clark,Female,27,32.3,Asthma,No,Southwest,127378,22609.2
+935,Michelle Garcia,Female,45,26.8,High Cholesterol,No,Northeast,118421,30319.9
+936,Tammy Parks,Male,41,28.4,Sleep Apnea,No,West,133439,35723.2
+937,Elizabeth Smith,Female,67,23.7,Sleep Apnea,No,Midwest,135763,46081.6
+938,David Hill,Female,36,38.9,High Cholesterol,No,Southeast,116651,27406.6
+939,Robert Fernandez,Female,24,32.1,Type 2 Diabetes,No,Southeast,134580,32569.2
+940,Tammy Keller,Male,27,21.4,High Cholesterol,No,Northwest,41407,24493.3
+941,Omar Wells,Male,18,37.8,Hypertension,No,Southwest,68185,23240.0
+942,Francis Sharp,Male,24,21.8,Type 2 Diabetes,Yes,Northwest,86961,54979.2
+943,Kevin Thompson,Female,72,28.3,Type 2 Diabetes,No,West,33773,54082.8
+944,Eric Mcintyre,Female,26,36.2,Arthritis,No,Northwest,33309,27888.0
+945,Erin Webb,Female,58,36.9,Asthma,No,Northwest,57232,31872.0
+946,Gabriel Wilson,Female,51,21.2,Sleep Apnea,No,Southeast,130465,39707.2
+947,Charles Stewart,Female,78,38.4,High Cholesterol,Yes,Southeast,34274,57187.0
+948,Frank Jones,Female,74,33.2,Sleep Apnea,No,Northwest,91478,48870.4
+949,Mrs. Heather Hinton DDS,Female,63,37.4,Hypertension,Yes,Northwest,120138,56357.0
+950,Maria Garza,Male,26,28.0,Type 2 Diabetes,No,Southeast,82934,33465.6
+951,Kristopher Simpson,Female,19,33.1,Hypertension,No,Southwest,112279,23588.6
+952,Richard Delgado,Male,41,28.5,Sleep Apnea,Yes,Southeast,100608,55643.2
+953,Jenna James,Male,29,37.0,Asthma,Yes,Northeast,118386,38146.8
+954,Austin Stout,Male,67,23.0,Type 2 Diabetes,No,Southeast,45541,51841.8
+955,Kendra Martinez,Female,82,35.1,Arthritis,No,Southwest,57447,48804.0
+956,Jasmine Reyes,Female,60,30.8,Type 2 Diabetes,No,Southeast,110385,48704.4
+957,Amy Gilmore,Female,28,39.6,Hypertension,Yes,Northeast,40600,44156.0
+958,Nicholas Austin,Male,63,27.2,Sleep Apnea,No,West,73590,44488.0
+959,Craig Carpenter,Female,53,33.0,Type 2 Diabetes,No,Southeast,39081,45567.0
+960,Olivia Dennis,Male,60,21.6,Asthma,No,Northeast,96307,32469.6
+961,David Mccormick,Female,60,31.6,Hypertension,No,Northeast,75108,37881.2
+962,Daniel Brooks,Male,37,21.0,Arthritis,No,Southeast,105338,31996.5
+963,Christine Jones,Female,85,28.8,Asthma,No,Southwest,52255,39939.6
+964,Joshua Long,Male,37,22.2,Hypertension,No,Northeast,55253,29863.4
+965,Kimberly Elliott,Male,44,22.0,Hypertension,No,Southwest,106890,32303.6
+966,Jonathan Bell,Male,32,20.8,Sleep Apnea,No,Midwest,38457,32137.6
+967,Courtney Evans,Female,68,38.0,Arthritis,No,Southeast,149161,43575.0
+968,Shawn Mclaughlin,Male,49,38.6,None,No,Southeast,74173,24319.0
+969,Eric Bauer,Male,27,21.2,Hypertension,No,Southwest,150168,26377.4
+970,Amy Smith,Male,32,34.9,Hypertension,No,Southeast,81483,28120.4
+971,Christopher Pena,Male,80,25.9,Sleep Apnea,No,Southeast,75841,51260.8
+972,Jennifer Long,Male,61,39.3,Hypertension,No,Northwest,133237,38229.8
+973,Robert Myers,Female,71,32.3,Arthritis,No,Midwest,128962,44695.5
+974,Christopher Ayala,Female,83,32.3,Asthma,No,Southwest,37004,39342.0
+975,Gabriel Smith,Male,26,35.6,None,No,Southwest,42623,18592.0
+976,Michelle Thompson,Female,74,35.3,Arthritis,Yes,Midwest,51362,64491.0
+977,Mark Hicks,Female,72,23.2,Sleep Apnea,No,Midwest,136320,48073.6
+978,Francisco Yang,Female,63,18.6,None,No,Southeast,153381,27805.0
+979,Timothy Li,Male,18,29.9,Arthritis,No,Southeast,152273,24900.0
+980,Jesus Hickman,Female,54,36.6,High Cholesterol,No,Southwest,152277,33233.2
+981,Michael Salas,Female,67,29.1,Type 2 Diabetes,Yes,Southeast,145286,74251.8
+982,Julie Harris,Female,39,28.6,Sleep Apnea,Yes,Northeast,36099,54846.4
+983,Jeffrey Cross,Female,71,20.6,Asthma,No,Northwest,157219,35756.4
+984,Crystal Holloway,Female,68,39.0,Hypertension,No,Northeast,30340,40670.0
+985,Lori Thompson,Female,65,25.3,None,No,Midwest,58799,28303.0
+986,Shannon Matthews,Female,84,30.6,Sleep Apnea,No,Southwest,61857,52854.4
+987,James Howard,Female,62,29.6,High Cholesterol,No,Midwest,138325,35822.8
+988,Nicolas Chung,Male,32,30.8,Sleep Apnea,No,Southeast,58293,32137.6
+989,Nichole Palmer,Female,63,27.3,Hypertension,No,Northeast,119401,38927.0
+990,Sean Nichols,Female,54,36.5,None,No,Southwest,49792,25564.0
+991,Drew Hendricks,Female,51,34.8,Type 2 Diabetes,No,Southwest,50741,44670.6
+992,Jonathan Larsen,Male,27,22.4,None,Yes,Southeast,43159,31291.0
+993,Jeremy Hernandez,Male,52,37.2,Type 2 Diabetes,No,West,106107,45118.8
+994,Christopher Salazar,Male,53,32.9,Asthma,Yes,Northwest,158551,45318.0
+995,Cody Wolfe,Male,18,38.3,None,No,Southwest,147169,16600.0
+996,Chloe Randall,Female,75,28.6,None,No,Northeast,148222,30793.0
+997,Tanya Baker,Male,60,19.2,Hypertension,No,Southeast,41726,37881.2
+998,Samantha Erickson,Male,29,31.1,Arthritis,No,Northeast,84927,29008.5
+999,Joe Heath,Male,54,32.2,Sleep Apnea,No,Northeast,113938,40902.4
+1000,Walter Osborne,Female,65,28.5,Sleep Apnea,No,Northeast,69435,45284.8
